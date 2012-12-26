@@ -1,4 +1,4 @@
-var heap = require("../heap");
+var heap = require("../").heap;
 
 var h = new heap();
 

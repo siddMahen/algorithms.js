@@ -1,4 +1,4 @@
-var bloom = require("../bloom").bloom;
+var bloom = require("../").bloom;
 
 var chf = function(){
     var a = ~~(Math.random() * 1000000) + 1;
