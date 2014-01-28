@@ -1,0 +1,21 @@
+{
+  "name": "algorithms",
+  "version": "0.0.0",
+  "description": "Algorithms.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "author": "Siddharth Mahendraker",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}

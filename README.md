@@ -11,7 +11,7 @@ Currently, `algorithms.js` supports:
 - Min-heaps
 - Bloom filters
 
-More algorithms and data structures will be added shortly.
+More algorithms and data structures will be added later.
 
 ## License
 
